@@ -1,0 +1,14 @@
+description = 'TypeFilter'
+allprojects {
+
+    group = 'netbeans'
+
+    repositories {
+        mavenCentral()
+    }
+}
+
+subprojects {
+    apply plugin: 'java'
+
+}
