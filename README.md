@@ -1,7 +1,8 @@
+# AgsFluidIIRFilterUtil: Advanced Gtk+ Sequencer Audio Reference Manual
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>AgsFluidIIRFilterUtil: Advanced Gtk+ Sequencer Audio Reference Manual</title>
 <meta name="generator" content="DocBook XSL Stylesheets Vsnapshot">
 <link rel="home" href="https://www.gnu.org/savannah-checkouts/non-gnu/gsequencer/api/3.13.4/libags-audio/index.html" title="Advanced Gtk+ Sequencer Audio Reference Manual">
 <link rel="up" href="https://www.gnu.org/savannah-checkouts/non-gnu/gsequencer/api/3.13.4/libags-audio/audio-fluid.html" title="Utility functions from Fluidsynth">
