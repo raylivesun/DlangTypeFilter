@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/features
+features.so
+features.dylib
+features.dll
+features.a
+features.lib
+features-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
